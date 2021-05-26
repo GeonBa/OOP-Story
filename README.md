@@ -12,8 +12,11 @@
 
 > [The Class](https://github.com/GeonBa/OOP-Story/blob/master/Unit3.md)
 
+> [클래스 사이의 관계, 종속과 연관](https://github.com/GeonBa/OOP-Story/blob/master/Unit4.md)
+
 <br>
 
 ### 📑References
 
 > 전병선의 객체지향 이야기 - 와우북스
+
