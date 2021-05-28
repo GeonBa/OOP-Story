@@ -14,6 +14,8 @@
 
 > [클래스 사이의 관계, 종속과 연관](https://github.com/GeonBa/OOP-Story/blob/master/Unit4.md)
 
+> [일반화와 상속성](https://github.com/GeonBa/OOP-Story/blob/master/Unit5.md)
+
 <br>
 
 ### 📑References
